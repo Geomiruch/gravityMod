@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "gravity:diorite_cobble"
+    }
+  },
+  "result": {
+    "item": "gravity:diorite_cobble_slab",
+    "count": 6
+  }
+}

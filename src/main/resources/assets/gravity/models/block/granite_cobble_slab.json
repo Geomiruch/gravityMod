@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "gravity:block/granite_cobble",
+    "top": "gravity:block/granite_cobble",
+    "side": "gravity:block/granite_cobble"
+  }
+}

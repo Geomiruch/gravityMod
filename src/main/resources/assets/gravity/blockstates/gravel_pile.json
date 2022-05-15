@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "gravel:block/gravelpile_height2"
+    },
+    "layers=2": {
+      "model": "gravel:block/gravelpile_height4"
+    },
+    "layers=3": {
+      "model": "gravel:block/gravelpile_height6"
+    },
+    "layers=4": {
+      "model": "gravel:block/gravelpile_height8"
+    },
+    "layers=5": {
+      "model": "gravel:block/gravelpile_height10"
+    },
+    "layers=6": {
+      "model": "gravel:block/gravelpile_height12"
+    },
+    "layers=7": {
+      "model": "gravel:block/gravelpile_height14"
+    },
+    "layers=8": {
+      "model": "gravel:block/gravelpile_height16"
+    }
+  }
+}

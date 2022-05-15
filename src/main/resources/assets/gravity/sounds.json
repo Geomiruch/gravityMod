@@ -1,0 +1,29 @@
+{
+  "rock_crumbling_1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gravity:block/rock_crumbling_1",
+        "stream": true
+      }
+    ]
+  },
+  "rock_crumbling_2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gravity:block/rock_crumbling_2",
+        "stream": true
+      }
+    ]
+  },
+  "rock_crumbling_3": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gravity:block/rock_crumbling_3",
+        "stream": true
+      }
+    ]
+  }
+}

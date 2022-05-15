@@ -1,0 +1,17 @@
+{
+  "item.gravity.mortar": "Mortar",
+  "item.gravity.wood_glue": "Wood glue",
+  "block.gravity.andesite_cobble": "Andesite cobble",
+  "block.gravity.diorite_cobble": "Diorite cobble",
+  "block.gravity.granite_cobble": "Granite cobble",
+  "block.gravity.andesite_cobble_slab": "Andesite cobble slab",
+  "block.gravity.diorite_cobble_slab": "Diorite cobble slab",
+  "block.gravity.granite_cobble_slab": "Granite cobble slab",
+  "block.gravity.andesite_cobble_stairs": "Andesite cobble stairs",
+  "block.gravity.diorite_cobble_stairs": "Diorite cobble stairs",
+  "block.gravity.granite_cobble_stairs": "Granite cobble stairs",
+  "block.gravity.andesite_cobble_wall": "Andesite cobble wall",
+  "block.gravity.diorite_cobble_wall": "Diorite cobble wall",
+  "block.gravity.granite_cobble_wall": "Granite cobble wall"
+
+}

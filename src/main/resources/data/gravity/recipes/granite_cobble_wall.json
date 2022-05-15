@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "gravity:andesite_cobble"
+    }
+  },
+  "result": {
+    "item": "gravity:andesite_cobble_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    "gravity:falling_cobble",
+    "gravity:falling_andesite_cobble",
+    "gravity:falling_diorite_cobble",
+    "gravity:falling_granite_cobble"
+  ]
+}
