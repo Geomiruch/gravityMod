@@ -148,6 +148,7 @@ public class FallingSlabBlock extends Block implements IWaterLoggable
     }
 
     protected void falling(FallingBlockEntity p_149829_1_) {
+        p_149829_1_.setHurtsEntities(true);
     }
 
     protected int getDelayAfterPlace() {

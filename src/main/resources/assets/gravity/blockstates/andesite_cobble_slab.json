@@ -2,6 +2,6 @@
   "variants": {
     "type=bottom": { "model": "gravity:block/andesite_cobble_slab" },
     "type=top": { "model": "gravity:block/andesite_cobble_slab_top" },
-    "type=double": { "model": "gravity:block/andesite_cobble_slab_block" }
+    "type=double": { "model": "gravity:block/andesite_cobble" }
   }
 }

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "gravity:andesite_cobble_slab",
+    "gravity:diorite_cobble_slab",
+    "gravity:granite_cobble_slab"
+  ]
+}

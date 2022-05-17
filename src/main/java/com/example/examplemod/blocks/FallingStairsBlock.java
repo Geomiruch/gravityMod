@@ -302,6 +302,7 @@ public class FallingStairsBlock extends Block implements IWaterLoggable
     }
 
     protected void falling(FallingBlockEntity p_149829_1_) {
+        p_149829_1_.setHurtsEntities(true);
     }
 
     protected int getDelayAfterPlace() {
@@ -337,5 +338,6 @@ public class FallingStairsBlock extends Block implements IWaterLoggable
     public int getDustColor(BlockState p_189876_1_, IBlockReader p_189876_2_, BlockPos p_189876_3_) {
         return -16777216;
     }
+
 
 }
