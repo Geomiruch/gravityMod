@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "gravity:block/sandpile_height2"
+    },
+    "layers=2": {
+      "model": "gravity:block/sandpile_height4"
+    },
+    "layers=3": {
+      "model": "gravity:block/sandpile_height6"
+    },
+    "layers=4": {
+      "model": "gravity:block/sandpile_height8"
+    },
+    "layers=5": {
+      "model": "gravity:block/sandpile_height10"
+    },
+    "layers=6": {
+      "model": "gravity:block/sandpile_height12"
+    },
+    "layers=7": {
+      "model": "gravity:block/sandpile_height14"
+    },
+    "layers=8": {
+      "model": "gravity:block/sandpile_height16"
+    }
+  }
+}

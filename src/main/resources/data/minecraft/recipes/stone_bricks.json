@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YX",
+    "XY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stone"
+    },
+    "Y": {
+      "item": "gravity:mortar"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_bricks",
+    "count": 2
+  }
+}
